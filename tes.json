@@ -1,0 +1,16 @@
+[
+	{
+		"name" : "Joker",
+		"genre" : "Psychological Thriller",
+		"rating" : 8.7,
+		"tahun" : 2019,
+		"aktor" : "Joaquin Phoenix"
+	},
+	{
+		"name" : "Logan",
+		"genre" : "Action",
+		"rating" : 8.1,
+		"tahun" : 2017,
+		"aktor" : "Hugh Jackman"
+	}
+]
